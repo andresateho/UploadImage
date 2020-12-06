@@ -5,7 +5,7 @@ namespace UnitTest
 
     public class UtilsTest
     {
-        [Test]
+        ////[Test]
         public void ValidateUtilsValidateSizeTrueTest()
         {
             string fileName = "prueba.jpg";
